@@ -22,4 +22,5 @@ Vad är tomtens telefonnummer?
 
 print(sum(list(range(127,268))) + sum(list(range(1110,1379))) + sum(list(range(3239293,3239331))))
 
-Svar: 123456250
+
+# Svar: 123456250
